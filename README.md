@@ -8,6 +8,7 @@ npm install -g bower
 * git clone https://github.com/dlobregon/birula.git
 * bower install
 * npm install
+
 ### Debug en el navegador
 * ionic serve
 
